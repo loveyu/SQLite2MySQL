@@ -1,0 +1,15 @@
+{
+    "name": "loveyu/sqlite-2-mysql",
+    "authors": [
+        {
+            "name": "loveyu",
+            "email": "i@loveyu.info"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Loveyu\\SQLite2MySQL\\":"src/"
+        }
+    },
+    "require": {}
+}
