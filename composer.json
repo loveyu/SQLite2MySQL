@@ -11,5 +11,8 @@
             "Loveyu\\SQLite2MySQL\\":"src/"
         }
     },
-    "require": {}
+    "require": {
+        "cheprasov/php-cli-args": "^2.1",
+        "catfan/Medoo": "^1.5"
+    }
 }
