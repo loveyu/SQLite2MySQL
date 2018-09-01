@@ -13,6 +13,7 @@
     },
     "require": {
         "cheprasov/php-cli-args": "^2.1",
-        "catfan/Medoo": "^1.5"
+        "catfan/Medoo": "^1.5",
+        "ext-pdo": "*"
     }
 }
